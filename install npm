@@ -1,0 +1,8 @@
+@echo off
+echo Please wait... we are installing the modules.
+npm install ws
+npm install fs
+npm install socks
+npm install https-proxy-agent
+echo Finished.
+pause
